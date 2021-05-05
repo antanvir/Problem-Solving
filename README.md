@@ -1,5 +1,5 @@
 # Problem-Solving
-Problems solved in CodeForces & UVA specially (Didn't get the time to upload all)
+Problems solved (accepted) in CodeForces & UVA online judge
 
 
 # CodeForces Link:
